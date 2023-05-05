@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Meteo</string>
+    <string name="temperatureLabel">Température</string>
+    <string name="humidityLabel">Humidité</string>
+    <string name="windSpeedLabel">Vitesse du vent</string>
+    <string name="windDirectionLabel">Direction du vent</string>
+    <string name="precipitations">Précipitations</string>
 </resources>

@@ -29,7 +29,7 @@
                     tools:ignore="SpeakableTextPresentCheck" />
 
                 <TextView
-                    android:id="@+id/textView2"
+                    android:id="@+id/tmpLabel"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="TextView" />
@@ -127,7 +127,7 @@
                     android:id="@+id/temperatureLabel"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="TextView" />
+                    android:text="@string/temperatureLabel" />
 
                 <TextView
                     android:id="@+id/temperatureValueLabel"
@@ -146,7 +146,7 @@
                     android:id="@+id/humidityLabel"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="TextView" />
+                    android:text="@string/humidityLabel" />
 
                 <TextView
                     android:id="@+id/humidityValueLabel"
@@ -165,7 +165,7 @@
                     android:id="@+id/windSpeedLabel"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="TextView" />
+                    android:text="@string/windSpeedLabel" />
 
                 <TextView
                     android:id="@+id/windSpeedValueLabel"
@@ -184,7 +184,7 @@
                     android:id="@+id/windDirectionLabel"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="TextView" />
+                    android:text="@string/windDirectionLabel" />
 
                 <TextView
                     android:id="@+id/windDirectionValueLabel"
@@ -203,7 +203,7 @@
                     android:id="@+id/precipitationsLabel"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="TextView" />
+                    android:text="@string/precipitations" />
 
                 <TextView
                     android:id="@+id/precipitationsValueLabel"
